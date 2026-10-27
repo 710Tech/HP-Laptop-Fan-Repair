@@ -57,6 +57,8 @@ This damage could restrict airflow and reduce cooling efficiency.
 
 ![Heatsink close-up](photos/10-damaged-heatsink-closeup.jpg)
 
+![Complete internal laptop layout](photos/13-complete-internal-layout.jpg)
+
 Carefully worked to straighten the damaged fins and improve airflow through the cooling assembly.
 
 ### 4. Replacement and Reassembly
